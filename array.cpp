@@ -1,6 +1,8 @@
 #include <iostream>
 #include <array>
 
+// Shangjie(Frank) Ma
+// C++ STL array class exemplary functions 
 using namespace std;
 
 int main(void)
